@@ -18,6 +18,6 @@ Run app with the command:
 
 `NODE APP`
 OR
-`NPM STAR`
+`NPM START`
 
 ### ENJOY :)
